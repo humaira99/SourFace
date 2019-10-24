@@ -38,6 +38,7 @@ NOTE: When running the video on openFace (explained in the next section; if at a
 
 <img src = "https://github.com/humaira99/SourFace/blob/master/app.png?raw=true" width = "652px" height = "400px"><br><br>
 15.	After the video runs, a pop up showing predominant tastes and emotions should appear, along with graphs showing taste and emotion levels for the whole video
+
 <img src = "https://github.com/humaira99/SourFace/blob/master/pred.png?raw=true" width = "500px" height = "300px"><br><br>
 <img src = "https://github.com/humaira99/SourFace/blob/master/graph.png?raw=true" width = "652px" height = "300px"><br><br>
 
