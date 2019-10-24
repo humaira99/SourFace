@@ -21,6 +21,7 @@ NOTE: When running the video on openFace (explained in the next section; if at a
 7.	Go to Record and deselect everything except ‘Record AUs’. This will ensure only action unit data is recorded in the csv file
 8.	Go to File > Open Video and select the edited video of the participant
 9.	The video should then start being processed by OpenFace. Make sure the confidence level stays green and the face mapping looks accurate. If not, the video may need to be re-edited, as described in the previous section. 
+<img src = "https://github.com/humaira99/SourFace/blob/master/openface.png?raw=true" width = "652px" height = "350px"><br><br>
 10.	After the video has finished processing, navigate to OpenFace_2.0.5_win_x64/processed. Move the csv file in to SourFace/GUI/files. Make sure the name of the file is the same as the name of the video. 
 
 ### GUI
@@ -32,6 +33,11 @@ NOTE: When running the video on openFace (explained in the next section; if at a
 •	Pyqt5
 12.	Run the vis.py script
 13.	On the start screen, enter the file/video name (which should be the same) 
+<img src = "https://github.com/humaira99/SourFace/blob/master/start.png?raw=true" width = "350px" height = "300px"><br><br>
 14.	Press ‘Go’. The video should appear with progress bars showing the level of emotion/taste as the video runs. 
+
+<img src = "https://github.com/humaira99/SourFace/blob/master/app.png?raw=true" width = "652px" height = "400px"><br><br>
 15.	After the video runs, a pop up showing predominant tastes and emotions should appear, along with graphs showing taste and emotion levels for the whole video
+<img src = "https://github.com/humaira99/SourFace/blob/master/pred.png?raw=true" width = "500px" height = "300px"><br><br>
+<img src = "https://github.com/humaira99/SourFace/blob/master/graph.png?raw=true" width = "652px" height = "300px"><br><br>
 
