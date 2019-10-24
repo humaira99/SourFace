@@ -4,9 +4,9 @@ Facial Expression Recognition GUI created as part of my summer internship with t
 This application detects your taste and emotion based on videos of your face.
 
 ### Pre-requisites 
-•	Python/Python IDE such as PyCharm
-•	OpenFace
-•	Video Editing Software e.g. iMovie 
+•	Python/Python IDE such as PyCharm\
+•	OpenFace\
+•	Video Editing Software e.g. iMovie\ 
 
 ### Editing the Video
 1.	After recording the video of the participant eating, import it in to iMovie 
@@ -26,11 +26,11 @@ NOTE: When running the video on openFace (explained in the next section; if at a
 
 ### GUI
 11.	Ensure the following packages are installed and up to date in your Python interpreter:   
-•	Matplotlib 
-•	Numpy
-•	Opencv-python
-•	Pandas
-•	Pyqt5
+•	Matplotlib\
+•	Numpy\
+•	Opencv-python\
+•	Pandas\
+•	Pyqt5\
 12.	Run the vis.py script
 13.	On the start screen, enter the file/video name (which should be the same) 
 <img src = "https://github.com/humaira99/SourFace/blob/master/start.png?raw=true" width = "350px" height = "300px"><br><br>
